@@ -16,7 +16,7 @@ fi
 git commit -m "$msg"
 
 # Push source and build repos.
-git push origin develop
+git push origin develope
 git subtree split -P public -b published
 git push origin published:master --force
 git branch -D published
