@@ -1,13 +1,13 @@
 +++
-image = "https://github.com/kishaningithub/hugo-creative-portfolio-theme/raw/master/exampleSite/static/img/portfolio/business-card.jpg"
+image = "img/hand_made/pajaritos.jpg"
 showonlyimage = true
 draft = false
 date = "2016-11-05T19:53:42+05:30"
-title = "Name of the work 5"
+title = "Pajaritos"
 weight = 5
 +++
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
+Inspired by a dear chidlhood friend who was always fascinated about how birds were depicted throughout the civilizations
 <!--more-->
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
