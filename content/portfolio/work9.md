@@ -3,29 +3,24 @@ draft = false
 image = "img/mirru_in_out/mirru-in-out5.gif"
 showonlyimage = false
 date = "2016-11-05T20:02:19+05:30"
-title = "SMART CAT-DOOR ENTRANCE SYSTEM"
+title = "SMART ENTRANCE SYSTEM for cats"
 weight = 9
 +++
-
-Mirru in / out
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+## FabAcademy Final Project
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+In 2019 I joined an amazing adventure in the world of Digital Fabrication the [FabAcademy](https://fabacademy.org/) course. It is an intense 20 weeks course where you learn **HOW TO MAKE ALMOST ANYTHING**. 
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+During this course you have to come up with a final project that integrates as many tools and topics learnt throughout the FabAcademy. 
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
 
-## Header Level 2
+>For my final project I decided to make something for our Shanghainese cat *Mirru*.
+The idea is for her to access our home with a special key *(a special necklace with a tag)* that enables the opening only to her and no other cat/animal can enter her/our house.
+The entrance is not only a door but a shelter for her where she can rest, chill or protect from the weather.
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+![necklace anatomy](/img/mirru_in_out/necklace_anatomy.png)
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+Meet Mirrunis she lives indoors but every morning we open the window so that she can go out to explore and run around with her other parkour cat-friends.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+{{< youtube _gRhWAqpEOw >}}

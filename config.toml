@@ -12,7 +12,7 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "default"
   description = "Describe your website"
-  copyright = "Pamela Martello"
+  copyright = "&copy;2016 Your name or company"
   sidebarAbout = [
     "Jewelry Designer & Maker",
     "Mexican soul based in Shanghai, China."
