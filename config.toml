@@ -1,5 +1,5 @@
 baseurl = "https://pamelamartello.github.io/"
-title = "20200217 PORTFOLIO TEST"
+title = "PAMELA MARTELLO"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -12,10 +12,10 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "default"
   description = "Describe your website"
-  copyright = "&copy;2016 Your name or company"
+  copyright = "Pamela Martello"
   sidebarAbout = [
-    "Intro about myself (TEST).",
-    "More info about myself (TEST)."
+    "Jewelry Designer & Maker",
+    "Mexican soul based in Shanghai, China."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -55,13 +55,8 @@ googleAnalytics = ""
   url = "contact/"
 
   [params.social]
-  facebook      = "full page or profile url in facebook"
-  googleplus    = "full profile url in googleplus"
-  email         = "email@example.com"
-  twitter       = "full profile url in twitter"
+  email         = "pamelamartelloarana@gmail.com"
   linkedin      = "full profile url in linkedin"
-  stackoverflow = "full profile url in stackoverflow"
   instagram     = "full profile url in instagram"
   github        = "full profile url in github"
-  youtube       = "full profile url in youtube"
-  whatsapp      = "wa.me service link"
+ 

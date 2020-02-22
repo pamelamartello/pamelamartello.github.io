@@ -1,31 +1,38 @@
 +++
 draft = false
-image = "img/portfolio/paper-presentation.jpg"
+image = "img/vogue/vogue2.jpg"
 showonlyimage = true
 date = "2016-11-05T20:23:59+05:30"
-title = "Item with image"
+title = "VOGUE"
 weight = 11
 +++
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+Let's VOGUE by Summer - music videoclip.
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+This is a project I keep dear in my heart, as it was one of my first works I did when I arrived to Shanghai.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+![VOGUE by Summer](/img/vogue/vogue2.jpg)
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+### About the project
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+I was consigned to design two pieces of jewelry for a music video ["Let's Vogue" by Summer](https://vimeo.com/78047148). The designs had to show the word "VOGUE" and had to reflect the spirit of the music video and the artist.
 
-## Header Level 2
+I designed one bracelet and a necklace.
+Both of them were handmade by myself. For the bracelet I used black acrylic and brass. And for the necklace brass.
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+![VOGUE by Summer](/img/vogue/vogue3.jpg)
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+![VOGUE by Summer](/img/vogue/vogue1.jpg)
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+### Videoclip shots
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+![VOGUE by Summer](/img/vogue/vogue4.JPG)
+
+![VOGUE by Summer](/img/vogue/vogue5.JPG)
+
+![VOGUE by Summer](/img/vogue/vogue8.JPG)
+
+![VOGUE by Summer](/img/vogue/vogue7.JPG)
+
+![VOGUE by Summer](/img/vogue/vogue6.JPG)
