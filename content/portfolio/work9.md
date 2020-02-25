@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/mirru_in_out/mirru-in-out5.gif"
+image = "img/mirru_in_out/mirru-in-out-yellow.gif"
 showonlyimage = false
 date = "2016-11-05T20:02:19+05:30"
 title = "Mirru in-out"

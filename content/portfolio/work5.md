@@ -1,28 +1,60 @@
 +++
-image = "img/hand_made/pajaritos.jpg"
+image = "img/pajaritos/pajaritos-cover-poster.jpg"
 showonlyimage = true
 draft = false
 date = "2016-11-05T19:53:42+05:30"
 title = "Pajaritos"
-weight = 5
+weight = 4
 +++
 
-Inspired by a dear chidlhood friend who was always fascinated about how birds were depicted throughout the civilizations
+Inspired by a dear chidlhood friend who has always been fascinated about how birds were depicted throughout history I decided to make a series of *"pajaritos"* (birds).
 <!--more-->
 
-![pajaritos moodboard](/img/pajaritos/moodboard-pajaritos.png)
+Designed especially thinking on the personality of the wearer. I hope you feel connected to them and you keep them as a token of our friendship.
+They will protect you and guide you whenever the sky turns grey. 
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+> *And remember fly and chase all your dreams!*
+
+![pajaritos moodboard](/img/pajaritos/moodboard-pajaritos.jpg)
+
+
+#### Shape study
+
+This were some quick sketches from where the shape was born. The earrings were made in 3D (Rhinoceros) and then printed in wax. After what I followed all the process that comes after, cleaning, polishing and welding.
+
+![pajaritos sketches](/img/pajaritos/pajaritos-sketch.jpg)
+
+#### Rendering
 
 1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 2. Aliquam tincidunt mauris eu risus.
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+> And remember fly and chase all your dreams!
 
-![pajaritos](/img/pajaritos/pajaritos1.jpg)
+![pajaritos](/img/pajaritos/pajaritos-long1.jpg)
+
+![pajaritos](/img/pajaritos/pajaritos-long2.jpg)
+
+![pajaritos](/img/pajaritos/pajaritos-media-luna1.jpg)
+
 ![pajaritos](/img/pajaritos/pajaritos.jpg)
-![pajaritos](/img/pajaritos/pajaritos3.jpg)
 
+
+#### Making process
+
+![pajaritos](/img/pajaritos/pajaritos4.jpg)
+
+![pajaritos](/img/pajaritos/pajaritos-making.jpg)
+
+![pajaritos](/img/pajaritos/pajaritos-making2.jpg)
+
+![pajaritos](/img/pajaritos/pajaritos-making3.jpg)
+
+![pajaritos](/img/pajaritos/pajaritos-making4.jpg)
+
+![pajaritos](/img/pajaritos/pajaritos-making5.jpg)
+
+![pajaritos](/img/pajaritos/pajaritos-making6.jpg)
 
 
 ## Header Level 2

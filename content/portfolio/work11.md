@@ -1,14 +1,14 @@
 +++
 draft = false
 image = "img/vogue/vogue2.jpg"
-showonlyimage = true
+showonlyimage = false
 date = "2016-11-05T20:23:59+05:30"
 title = "VOGUE"
-weight = 11
+weight = 5
 +++
+<!--more-->
 
 Let's VOGUE by Summer - music videoclip.
-<!--more-->
 
 This is a project I keep dear in my heart, as it was one of my first works I did when I arrived to Shanghai.
 
