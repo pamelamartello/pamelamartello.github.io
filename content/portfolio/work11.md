@@ -4,7 +4,7 @@ image = "img/vogue/vogue2.jpg"
 showonlyimage = false
 date = "2016-11-05T20:23:59+05:30"
 title = "VOGUE"
-weight = 5
+weight = 0
 +++
 <!--more-->
 
