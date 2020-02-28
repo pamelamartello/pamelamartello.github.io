@@ -10,24 +10,50 @@ weight = 4
 
 ![3d Modelling gif](/img/3d-modelling/3d-modelling-render.gif)
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+3D modelling is not magic, but can look like magic...
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+For 3D modelling I use Rhinoceros 3D as my main software but, I use as well Fusion 360 depending on the nature of the project, being the first software more suitable for Jewelry Design (as my personal poin of view). 
+After making the 3D model I work on the rendering part (adding materials and light), I combine different softwares for this stage.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+Here are some examples of the 3D modelling works I've done. Some of the projects remained as a visual proposal for clients and others made in collections.
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+### Animalitos collection
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+![Llamita](/img/3d-modelling/20200228-llamita-tech-drw.jpg)
 
-## Header Level 2
+![Llamita](/img/3d-modelling/20200228-llamita.jpg)
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+![animals render](/img/3d-modelling/20200228-zoo-animals-animation-smaller2.gif)
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+![animals render](/img/3d-modelling/20200228-zoo-collection2.jpg)
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+### Bean collection
+
+![sketch bean collection](/img/3d-modelling/bean-collection1.jpg)
+
+![sketch bean collection](/img/3d-modelling/bean-collection2.jpg)
+
+![sketch bean collection](/img/3d-modelling/bean-collection3.jpg)
+
+![sketch bean collection](/img/3d-modelling/bean-collection4.jpg)
+
+![sketch bean collection](/img/3d-modelling/bean-collection5.jpg)
+
+### Matter collection
+
+
+![matter collection](/img/3d-modelling/renders-rings-1.jpg)
+
+![matter collection](/img/3d-modelling/renders-rings-2.jpg)
+
+![matter collection](/img/3d-modelling/renders-rings-3.jpg)
+
+![matter collection](/img/3d-modelling/renders-rings-4.jpg)
+
+![matter collection](/img/3d-modelling/renders-rings-5.jpg)
+
+
+
+
+
