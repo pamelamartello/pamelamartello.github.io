@@ -4,7 +4,7 @@ image = "img/good-citizen/the-good-citizen.jpg"
 date = "2016-11-05T19:56:17+05:30"
 title = "The Good citizen"
 showonlyimage = false
-weight = 6
+weight = 10
 +++
 
 The good citizen jewelry collection **_work in progress_**.

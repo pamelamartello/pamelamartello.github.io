@@ -29,22 +29,93 @@ Some of my main tasks while working here were:
 * Organizing and hosting workshops about 3DPrinting, laser cutting and 2D/3D software
 * Organizing and hosting meetups to connect and collaborate with the community
 
-If you are curious you can check out [XINFAB](https://www.xinfab.com/index.html) website or our [MEETUP](https://www.meetup.com/Xinfab-Fablab/events/past/) site to see what we were doing with the makers community. Here are some of the ones I helped organizing and hosting:
+If you are curious you can check out [XINFAB](https://www.xinfab.com/index.html) website to see what we were doing with the makers community. 
+Below are some of the events I helped organizing and hosting.
+___
 
+## Talks
 
-![repair day](/img/xinfab/repair-cafe.jpg)
+At XinFab we were constantly looking for people interested in sharing their knowledge and working expertise related to digital fabrication, design and maker movement, to inspire and open a panel of discussion with the community.
+Here are a couple of talks we organized pairing up with special guests.
 
-![cat lovers](/img/xinfab/cat-lovers.jpg)
+#### Pioneers of Open Source Furniture speakers: *Anne Filson and Gary Rohrbacher (AtFAB)*
+We teamed up with **[OpenDesk/Openmake](https://www.opendesk.cc/)**, to organize a talk about open source design and digital fabrication with designers **Anne Filson** and **Gary Rohrbacher** from **[AtFab](http://atfab.co/)**. The talk searched to explore how the combination of digital fabrication and open source democratizes design by creating a reality where consumers can buy directly from makers.
 
-![cat lovers](/img/xinfab/jewelry-making.jpg)
+[![Design Thinking](/img/xinfab/atFab-MEETUP.jpg)](https://www.meetup.com/Xinfab-Fablab/events/246115250/)
+*(click the image to go this Meetup site)*
 
-![cat lovers](/img/xinfab/laser-cutting.jpg)
+#### Design Thinking speakers: *Coco Yu & Alex Smith*
+We organized a roundtable discussion with design thinkers **Coco Yu** and **Alex Smith** about Design Thinking and what impact, if any, it can have on our lives. A conversation open to creatives, designers, business people, students, and curious individuals interested in learning more.
 
-![cat lovers](/img/xinfab/sewing-second-chance.jpg)
+[![Design Thinking](/img/xinfab/design-thinking-talk.jpg)](https://www.meetup.com/Xinfab-Fablab/events/247149688/)
+*(click the image to go this Meetup site)*
+___
 
-![cat lovers](/img/xinfab/open-nights.jpg)
+## MEETUPS 
 
-![cat lovers](/img/xinfab/blind-contour.jpg)
+The idea of XinFab MEETUPS is to gather people who are interested in a common topic who want to discuss it and maybe come up with a project. It is not a workshop or a lecture, it is a meeting time to collaborate with our community and make some meaningful impact in our daily lives even a small one like learning how to fix your vacuum cleaner.
+
+#### Repair café
+ Inspired by [Repair café](https://repaircafe.org/en/) and several other repair center initiatives we tried hosting recurring REPAIR CAFÉ DAYS at XinFab where everyone can learn from each other how to give a second chance to their belongings. Repairing, hacking or up-cycling, **_mending is better than ending_**.
+
+[![Repair Cafe](/img/xinfab/repair-cafe.jpg)](https://www.meetup.com/Xinfab-Fablab/events/265995916/)
+*(click the image to go this Meetup site)*
+
+#### Cat Lovers 
+The idea of this Meetup was to come up with ideas on how to make a shelter or playground for cats using materials leftovers or recyclable waste combined with the usage of digital fabrication tools.
+
+[![Cat Lovers Meetup](/img/xinfab/cat-lovers.jpg)](https://www.meetup.com/Xinfab-Fablab/events/252429127/)
+*(click the image to go this Meetup site)*
+
+#### Special women's day
+At XinFab we liked celebrate things differently, for the International Women's Day we did an open invitation to all the ladies in Shanghai to come to Xinfab and learn how to use power tools, other tools and machines - typically associated with "man's work". 
+
+We have absolutely nothing against men, but we do believe in equality! So we wanted to break stereotypes and show everyone, especially to yourselves, that you can perfectly fix stuff around your home without anyone's help - not your boyfriend, not your dad, all by yourself!
+
+[![Women's day](/img/xinfab/handywomen-day.jpg)](https://www.meetup.com/Xinfab-Fablab/events/248127148//)
+*(click the image to go this Meetup site)*
+
+#### Stitch it up!
+Like Repair café Meetup, everyone deserves a second chance and so do your clothes! In a world where things just get easily thrown away or abandoned in favor of an ever increasing number of new stuff, why not fix, recycle, give our clothes a new life? The idea of this Meetup was to discuss waste and think of ways we can waste less. Each participant had to bring along clothes, pillow cases, bags or any other item we could reuse. Attendants got the chance to use XinFab sewing machines to fix something they had abandoned because it's got a little hole. 
+
+[![Stitch Meetup](/img/xinfab/sewing-second-chance.jpg)](https://www.meetup.com/Xinfab-Fablab/events/254298375/)
+*(click the image to go this Meetup site)*
+
+#### Open Nights
+Open Nights was a regular activity we hosted at XinFab every two weeks were we opened the doors of the lab to the general public to check out XinFab's Lab space, find out what Xinfab is about, and learn how to become a member and what you can do with all these equipment.
+
+[![Stitch Meetup](/img/xinfab/open-nights.jpg)](https://www.meetup.com/Xinfab-Fablab/events/qrnhfqyxnbqb/)
+*(click the image to go this Meetup site)*
+___
+
+## WORKSHOPS
+
+In order to sustain the Lab and to teach the members how to use the equipment as XinFab is a DIY space, we organized regulary workshops for beginners to advanced levels, covering topics related to 3D modeling, 3D printing, 2D modeling, laser cutting, and electronics.
+
+#### Laser cut jewelry
+We organized a series of workshops for beginners focused on Jewelry making using Laser cutting. During this workshops we covered: introduction to vectorial software, jewelry design, how to use and setup the laser cutting machine and how to cut out your own files.
+
+[![Laser cutting & jewelry making](/img/xinfab/jewelry-making2.jpg)](https://www.meetup.com/Xinfab-Fablab/events/257055756/)
+*(click the image to go this Meetup site)*
+
+#### Laser cutting intro training
+An introductory designed to teach students the basics on how to laser cut and engrave, save your files and set up the machine. After this trainings students can come and use on their own XinFab's equipment, and help other members of the community by passing on what they learned.
+
+[![Laser cutting intro](/img/xinfab/laser-cutting2.jpg)](https://www.meetup.com/Xinfab-Fablab/events/254502268/)
+*(click the image to go this Meetup site)*
+
+#### 3D Printing intro training
+This is an introductory course were we teach some basic commands of an Open Source 3D modelling software to create a 3D object. Followed by an introduction to Slicer software *Cura* to learn how to prepare the files for 3D printing. After this students learn to set up the FDM printers and print their models.
+
+[![3D printing intro](/img/xinfab/3D-printing-workshop.jpg)](https://www.meetup.com/Xinfab-Fablab/events/260503367/)
+*(click the image to go this Meetup site)*
+
+#### Blind contour & engraving
+Blind contour drawing + laser engraving is a workshop that will help you to explore the blind drawing technique without limits applied into laser engraving! Students are paired in couples and each draws the blind contour of its partner, afterwards they learn how to transfor this sketch into a digital vector and use it to create a pin with their drawings.
+
+[![Blind contour and laser cutting](/img/xinfab/blind-contour2.jpg)](https://www.meetup.com/Xinfab-Fablab/events/252968490/)
+*(click the image to go this Meetup site)*
+
 
 
 

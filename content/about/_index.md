@@ -18,4 +18,4 @@ The Big Oxmox advised her not to do so, because there were thousands of bad Comm
 
 For more details, you can download my CV HERE.
 
-[1]: /img/About-pic.jpg
+[1]: /img/about2.gif

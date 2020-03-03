@@ -1,10 +1,10 @@
 +++
-image = "img/pajaritos/pajaritos-cover-poster.jpg"
+image = "img/pajaritos/pajaritos-cover-poster.gif"
 showonlyimage = true
 draft = false
 date = "2016-11-05T19:53:42+05:30"
 title = "Pajaritos"
-weight = 4
+weight = 3
 +++
 
 Inspired by a dear chidlhood friend who has always been fascinated about how birds were depicted throughout history I decided to make a series of *"pajaritos"* (birds).

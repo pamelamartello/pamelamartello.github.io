@@ -42,16 +42,17 @@ Here are some examples of the 3D modelling works I've done. Some of the projects
 
 ### Matter collection
 
+![matter collection](/img/3d-modelling/matter-collection.jpg)
 
-![matter collection](/img/3d-modelling/renders-rings-1.jpg)
+![rings renders](/img/3d-modelling/renders-rings-1.jpg)
 
-![matter collection](/img/3d-modelling/renders-rings-2.jpg)
+![rings renders](/img/3d-modelling/renders-rings-2.jpg)
 
-![matter collection](/img/3d-modelling/renders-rings-3.jpg)
+![rings renders](/img/3d-modelling/renders-rings-3.jpg)
 
-![matter collection](/img/3d-modelling/renders-rings-4.jpg)
+![rings renders](/img/3d-modelling/renders-rings-4.jpg)
 
-![matter collection](/img/3d-modelling/renders-rings-5.jpg)
+![rings renders](/img/3d-modelling/renders-rings-5.jpg)
 
 
 
