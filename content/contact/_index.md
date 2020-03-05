@@ -5,5 +5,5 @@ title = "contact"
 
 
 
-If you would like to collaborate with drop me an email to [pamelamartelloarana@gmail.com](pamelamartelloarana@gmail.com)
+I am bad at networking so drop me a line if you are interested in collaborating with me [pamelamartelloarana@gmail.com](pamelamartelloarana@gmail.com)
 

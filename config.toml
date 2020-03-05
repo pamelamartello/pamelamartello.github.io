@@ -12,10 +12,10 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "default"
   description = "Describe your website"
-  copyright = "&copy;2020 Pamela Martello"
+  copyright = "2020 Pamela Martello"
   sidebarAbout = [
     "Jewelry Designer & Maker",
-"Mexican soul based in Shanghai, China."
+
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -56,7 +56,6 @@ googleAnalytics = ""
 
   [params.social]
   email         = "pamelamartelloarana@gmail.com"
-  linkedin      = "full profile url in linkedin"
-  instagram     = "full profile url in instagram"
-  github        = "full profile url in github"
+  instagram     = "https://www.instagram.com/tlacuachis/"
+  github        = "https://github.com/pamelamartello"
  

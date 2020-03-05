@@ -1,21 +1,22 @@
 +++
 date = "2016-11-05T21:05:33+05:30"
-title = "About me"
+title = "about"
 +++
 
- **there truth merit**
+![Pame profile pic][1]
 
- **TEST** 
+Pamela Martello is a Mexican soul with a formation in Jewelry Designer, based in Shanghai, China.
+She has worked as a Designer for different jewelry brands and the past years she got involved in the makers world. Focusing and developing her work towards Digital Fabrication in Jewelry Making and in the development of educational programs that involve this technologies.
 
-![This is me][1]
+Interested in the making process of objects, experimenting new and old techniques and integrate them consciously into the Design process.
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+#### Education & Trainings
 
-#### Education
+* FabAcademy: *Digital Fabrication Course 01/2019 - 06/2019*
+* Fashion Institute of NY: *Rhinoceros III for Jewelry Course 11/2017 - 12/2017*
+* Istituto Europeo di Design: *BA Jewelry Design 9/2008 - 6/2011*
+* ENAP Escuela Nacional de Artes Plasticas: *Enamel Jewelry Course 8/2009 - 9/2009*
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+You can download my [CV](/img/CV/CV-PamelaMartello.pdf) for further information.
 
-For more details, you can download my CV HERE.
-
-[1]: /img/about2.gif
+[1]: /img/pam-profile.jpg

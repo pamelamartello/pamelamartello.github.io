@@ -8,7 +8,7 @@ weight = 8
 +++
 <!--more-->
 
-Personal collection inspired by Shanghai Art Deco.
+This is a personal collection inspired by the Art Deco architecture in Shanghai.
 
 ### Moodboard
 ![art deco line](/img/zstone/MOODBOARD-art-deco2.jpg)

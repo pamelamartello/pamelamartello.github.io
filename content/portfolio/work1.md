@@ -10,12 +10,14 @@ weight = 4
 
 ![3d Modelling gif](/img/3d-modelling/3d-modelling-render.gif)
 
-3D modelling is not magic, but can look like magic...
+3D modeling is not magic but can look like magic...
 
-For 3D modelling I use Rhinoceros 3D as my main software but, I use as well Fusion 360 depending on the nature of the project, being the first software more suitable for Jewelry Design (as my personal poin of view). 
-After making the 3D model I work on the rendering part (adding materials and light), I combine different softwares for this stage.
+For 3D modeling I mainly use Rhinoceros 3D software but, I try to use and explore other softwares like Fusion 360. 
+Depending on the nature of the project, being for me Rhinos the more suitable for Jewelry Design, I use different mediums.
 
-Here are some examples of the 3D modelling works I've done. Some of the projects remained as a visual proposal for clients and others made in collections.
+Commonly after making the 3D model of my designs, I work on the rendering part (adding materials and light). For this stage, I combine as well as several different software.
+
+Here are some examples of the 3D modeling works I've done. Some of the projects remained as a visual proposal for clients and others were made into a physical product.
 
 ### Animalitos collection
 
@@ -43,6 +45,8 @@ Here are some examples of the 3D modelling works I've done. Some of the projects
 ### Matter collection
 
 ![matter collection](/img/3d-modelling/matter-collection.jpg)
+
+### Other works
 
 ![rings renders](/img/3d-modelling/renders-rings-1.jpg)
 

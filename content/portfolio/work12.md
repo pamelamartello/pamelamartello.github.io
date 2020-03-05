@@ -10,7 +10,7 @@ weight = 12
 
 **_What is a FabLab?_**
 >A [FabLab](https://www.fablabs.io/) is a Digital Fabrication laboratory open to the public and their mission is to support and encourage the makers and open source culture.
-A normal fully equiped FabLab has the basic tooling that includes: **Laser cutting machine, 3D printers, power tools, hand tools, CNC milling machines, and electronics working bench**. Every FabLab runs differently but normally regular activites are organized so that the community learns how to use these equipment and then be able to use them on their own.
+A normal fully equiped FabLab has the basic tooling that includes: **Laser cutting machine, 3D printers, power tools, hand tools, CNC milling machines, and electronics working bench**. Every FabLab runs differently but normally regular activites are organized so that the community learns how to use these equipment and then be able to come and use them on their own.
 
 ### Working in a FabLab?
 

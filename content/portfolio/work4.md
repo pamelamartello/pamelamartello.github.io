@@ -17,6 +17,7 @@ Since 2019 I started an on-going collaboration with **[FabLabO Shanghai](https:/
 The curricular activities we develop are for beginners to advanced levels. Each course and level focuses on one or more digital fabrication skills: laser cutting, 3D printing, 3D modelling, electronics, programming.
 FabLaO programs aim to promote critical thinking, problem-solve, discovery and creation through a fun an engaging way. 
 
+___
 
 ### Paper Circuits (Grade 1-2)
 
@@ -34,6 +35,7 @@ Asides from developing the content of the lessons we also work on the kits that 
 ![paper circuits models](/img/fablabo/paper-circuits-4.jpg)
     
 ![paper circuits models](/img/fablabo/graphics-info2.png)
+___
 
 ### The BioBook (Grade 1-2)
 
@@ -49,6 +51,7 @@ The idea of this course we've been working on developing is that students learn 
 ![bioplastics](/img/fablabo/2019-steam-symposium2.jpg)
 
 ![bioplastics](/img/fablabo/2019-steam-symposium.jpg)
+___
 
 ### Fantastic Explorers (Grade 3-5)
 

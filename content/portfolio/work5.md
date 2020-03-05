@@ -7,42 +7,35 @@ title = "Pajaritos"
 weight = 3
 +++
 
-Inspired by a dear chidlhood friend who has always been fascinated about how birds were depicted throughout history I decided to make a series of *"pajaritos"* (birds).
+A token of friendship and protection to guide you whenever the skies turn grey. 
+
 <!--more-->
 
-Designed especially thinking on the personality of the wearer. I hope you feel connected to them and you keep them as a token of our friendship.
-They will protect you and guide you whenever the sky turns grey. 
-
-> *And remember fly and chase all your dreams!*
+Inspired by a dear childhood friend who has always been fascinated about how birds were depicted throughout history I decided to make a series of **_pajaritos_** (birds) inspired in my hometown Mexico.
 
 ![pajaritos moodboard](/img/pajaritos/moodboard-pajaritos.jpg)
 
 
 #### Shape study
 
-This were some quick sketches from where the shape was born. The earrings were made in 3D (Rhinoceros) and then printed in wax. After what I followed all the process that comes after, cleaning, polishing and welding.
+Sketches of my own interpretation of birds.
 
 ![pajaritos sketches](/img/pajaritos/pajaritos-sketch.jpg)
 
-#### Rendering
+#### Rendering & making process
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+The earrings were designed in 3D software Rhinoceros, after that, I printed the models in castable wax and proceed to cast them in silver 925.
+Following up by the cleaning process of filing, welding, and polishing, entirely made by hand.
 
-> And remember fly and chase all your dreams!
+![renders pajaritos](/img/pajaritos/pajaritos-long1.jpg)
 
-![pajaritos](/img/pajaritos/pajaritos-long1.jpg)
+![renders pajaritos](/img/pajaritos/pajaritos-long2.jpg)
 
-![pajaritos](/img/pajaritos/pajaritos-long2.jpg)
+![renders pajaritos](/img/pajaritos/pajaritos-media-luna1.jpg)
 
-![pajaritos](/img/pajaritos/pajaritos-media-luna1.jpg)
+![renders pajaritos](/img/pajaritos/pajaritos.jpg)
 
-![pajaritos](/img/pajaritos/pajaritos.jpg)
-
-
-#### Making process
-
-![pajaritos](/img/pajaritos/pajaritos4.jpg)
+![renders pajaritos](/img/pajaritos/pajaritos4.jpg)
 
 ![pajaritos](/img/pajaritos/pajaritos-making.jpg)
 
@@ -56,14 +49,3 @@ This were some quick sketches from where the shape was born. The earrings were m
 
 ![pajaritos](/img/pajaritos/pajaritos-making6.jpg)
 
-
-## Header Level 2
-
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
