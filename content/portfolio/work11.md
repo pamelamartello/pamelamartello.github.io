@@ -8,24 +8,23 @@ weight = 5
 +++
 <!--more-->
 
-Let's VOGUE by Summer - music videoclip.
+### *Let's VOGUE* by Summer - music video clip
 
-This is a project I keep dear in my heart, as it was one of my first works I did when I arrived to Shanghai.
+This is a project I keep dear in my heart, as it was one of the first works I did when I arrived in Shanghai.
 
 ![VOGUE by Summer](/img/vogue/vogue2.jpg)
 
 ### About the project
 
-I was consigned to design two pieces of jewelry for a music video ["Let's Vogue" by Summer](https://vimeo.com/78047148). The designs had to show the word "VOGUE" and had to reflect the spirit of the music video and the artist.
+I was assigned to design a necklace and a bracelet for a music video ["Let's Vogue" by Summer](https://vimeo.com/78047148). The designs had to show the word "VOGUE" and had to reflect the spirit of the music video and the artist.
 
-I designed one bracelet and a necklace.
-Both of them were handmade by myself. For the bracelet I used black acrylic and brass. And for the necklace brass.
+For the bracelet, I combined black acrylic and brass. And for the necklace brass. I made both of the designs entirely by hand.
 
 ![VOGUE by Summer](/img/vogue/vogue3.jpg)
 
 ![VOGUE by Summer](/img/vogue/vogue1.jpg)
 
-### Videoclip shots
+### Videoclip 
 
 ![VOGUE by Summer](/img/vogue/vogue4.JPG)
 

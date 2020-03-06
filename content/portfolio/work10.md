@@ -7,7 +7,7 @@ title = "Digital Farication Workshops"
 weight = 10
 +++
 
-From a 3D model to a prototype. Making digitally fabricated objects 
+From a 3D model to a prototype. Making digitally fabricated objects.
 <!--more-->
 
 ![3d printed jewelry](/img/digitally-fab-jewelry/digitally-fab-jewelry.gif)
@@ -64,7 +64,7 @@ The content of the 3D printing workshops I normally teach covers the following:
 
 It is normal and common to come up with problems while doing the print or setting up the files, we try to debug and learn together what the issues are, helping not only the students to have a better understanding but also for me as a teacher to learn more.
 
->I've held several of these workshops mostly in FabLabs, in Shanghai, and I had the chance to give some as well in Seoul.
+>I've held several of these workshops mostly in FabLabs, in Shanghai, and I had the chance to give some as well in Seoul. 
 
 ![laser cutting jewelry](/img/digitally-fab-jewelry/lessons-11.jpg)
 

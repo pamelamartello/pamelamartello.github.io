@@ -15,8 +15,8 @@ googleAnalytics = ""
   copyright = "2020 Pamela Martello"
   sidebarAbout = [
     "Jewelry Designer & Maker",
-
   ]
+  
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
      # proxy. The form makes a POST request to their servers to send the actual
