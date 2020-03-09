@@ -39,10 +39,9 @@ Tools and techniques I used to make this project:
 
 ![poster](/img/mirru_in_out/poster-mirru.jpg)
 
-[![Final Project Video](/img/mirru_in_out/button-mirru3.png)](https://www.youtube.com/watch?v=_gRhWAqpEOw)
 ###### **_Click the button below if you can't see the VIDEO on your phone:_**
-
+[![Final Project Video](/img/mirru_in_out/button-mirru3.png)](https://www.youtube.com/watch?v=_gRhWAqpEOw)
 #### Final Project outcome video
-Meet Mirrunis she lives indoors but every morning we open the window so that she can go out to explore and run around with her other parkour cat-friends.
+Watch the video below to see the full project what it is about and how I made it. And also get the chance to meet Mirru ;)
 {{< youtube _gRhWAqpEOw >}}
 

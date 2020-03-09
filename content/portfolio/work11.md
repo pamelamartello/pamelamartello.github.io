@@ -26,12 +26,13 @@ For the bracelet, I combined black acrylic and brass. And for the necklace brass
 
 ### Videoclip 
 
-![VOGUE by Summer](/img/vogue/vogue4.JPG)
+![VOGUE by Summer](/img/vogue/lets-vogue-1.jpg)
 
-![VOGUE by Summer](/img/vogue/vogue5.JPG)
+![VOGUE by Summer](/img/vogue/lets-vogue-2.jpg)
 
-![VOGUE by Summer](/img/vogue/vogue8.JPG)
+![VOGUE by Summer](/img/vogue/lets-vogue-5.jpg)
 
-![VOGUE by Summer](/img/vogue/vogue7.JPG)
+![VOGUE by Summer](/img/vogue/lets-vogue-4.jpg)
 
-![VOGUE by Summer](/img/vogue/vogue6.JPG)
+![VOGUE by Summer](/img/vogue/lets-vogue-3.jpg)
+

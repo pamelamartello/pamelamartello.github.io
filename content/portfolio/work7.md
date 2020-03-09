@@ -90,7 +90,7 @@ This collection is made with 14k gold, jade, and wood. A production technique th
 
 ![jade jewelry](/img/zstone/Sky-Collection-1.jpg)
 
-![jade jewelry](/img/zstone/SKY-COLLECTION-var12.jpg)
+![jade jewelry](/img/zstone/SKY-COLLECTION-var12modified.jpg)
 
 ![jade jewelry](/img/zstone/SKY-COLLECTION-var1.jpg)
 

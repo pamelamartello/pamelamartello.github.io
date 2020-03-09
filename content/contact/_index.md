@@ -7,5 +7,5 @@ title = "contact"
 
 For further information you can contact me through [pamelamartelloarana@gmail.com](pamelamartelloarana@gmail.com) 
 
-![3d Modelling gif](/img/3d-modelling/3d-modelling-render.gif)
+![3d Modelling gif](/img/contact/2020-CONTACT-v2.gif)
 
