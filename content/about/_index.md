@@ -17,6 +17,6 @@ Interested in the making process of objects, experimenting new and old technique
 * Istituto Europeo di Design: *BA Jewelry Design 9/2008 - 6/2011*
 * ENAP Escuela Nacional de Artes Plasticas: *Enamel Jewelry Course 8/2009 - 9/2009*
 
-You can download my [CV](/img/CV/CV-PamelaMartello.pdf) for further information.
+You can download my [CV](/img/CV/PamelaMartello-CV.pdf) for further information.
 
-[1]: /img/pam-profile.jpg
+[1]: /img/aboutv3.gif
