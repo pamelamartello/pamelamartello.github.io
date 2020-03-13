@@ -23,7 +23,7 @@ Some of my main tasks while working here were:
 * Writing content for their social media channels (WECHAT, MEETUP, and  website)
 * Website maintenance
 * Graphic Design for social media content
-* 3D printing and laser cutting service 
+* 3D printing and laser cutting design service 
 * Community management 
 * Machinery maintenance and operation 
 * Organizing and hosting workshops about 3DPrinting, laser cutting and 2D/3D software
