@@ -16,7 +16,7 @@ The following are some of the collections I designed.
 
 ### Matter collection
 
-A collection of simplicity, the idea is to enhance the beauty of the material using linear and clean shapes.
+A collection about simplicity, the idea is to enhance the beauty of the material using linear and clean shapes.
 The collection is made with 14k Gold and jade.
 
 ![models](/img/zstone/ZSTONE-models.jpg)
