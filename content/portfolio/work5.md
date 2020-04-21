@@ -11,7 +11,7 @@ A token of friendship and protection to guide you whenever the skies turn grey.
 
 <!--more-->
 
-Inspired by a dear childhood friend who has always been fascinated about how birds were depicted throughout history I decided to make a series of **_pajaritos_** (birds) inspired in my hometown Mexico.
+Inspired by a dear childhood friend who has always been fascinated about how birds were depicted throughout history I decided to make a series of **_pajaritos_** (little birds) inspired in my hometown Mexico.
 
 ![pajaritos moodboard](/img/pajaritos/moodboard-pajaritos.jpg)
 

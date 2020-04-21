@@ -14,7 +14,7 @@ From a 3D model to a prototype. Making digitally fabricated objects.
 
 >Digital fabrication has helped me so much in my design process that I am always happy to share what I learned with other people, hoping they can implement these techniques and use them, being for a personal project or even for a product prototype.
 
-I've organized several workshops mostly in collaboration with a [FabLabs](https://www.fablabs.io/), where we focus on teaching 2D and 3D design skills, from concept to fabrication using mainly laser cutting and 3D printing.
+I've organized several workshops mostly in collaboration with [FabLabs](https://www.fablabs.io/), where we focus on teaching 2D and 3D design skills, from concept to fabrication using mainly laser cutting and 3D printing.
 
 ___
 ## Laser Cutting workshops
