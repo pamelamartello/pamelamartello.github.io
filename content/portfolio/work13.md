@@ -9,6 +9,7 @@ weight = 14
 <!--more-->
 
 **_Documentation_**
+
 While doing the FabAcademy I realized how useful it is to keep track of what you do and about sharing publicly (open-source). 
 I would like to share how I built my website and contribute to the community as it has done with me.
 
