@@ -9,6 +9,7 @@ weight = 8
 <!--more-->
 
 This is a personal collection inspired by the Art Deco architecture in Shanghai.
+All the designs are renders and I used Rhinoceros 3D and Photoshop to make them.
 
 ### Moodboard
 ![art deco line](/img/zstone/MOODBOARD-art-deco2.jpg)
