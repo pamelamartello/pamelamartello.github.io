@@ -4,7 +4,7 @@ draft = false
 image = ""
 date = "2016-11-05T19:59:22+05:30"
 title = "how i built this site"
-weight = 14
+weight = 15
 +++
 <!--more-->
 

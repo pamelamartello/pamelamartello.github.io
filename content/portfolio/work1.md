@@ -12,8 +12,8 @@ weight = 4
 
 3D modeling is not magic but can look like magic...
 
-For 3D modeling I mainly use Rhinoceros 3D software but, I try to use and explore other softwares like Fusion 360. 
-Depending on the nature of the project, being for me Rhinos the more suitable for Jewelry Design, I use different mediums.
+For 3D modeling I mainly use Rhinoceros 3D software but, I try to use and explore other softwares like am doing now with Fusion 360. 
+Depending on the nature of the project, being for me Rhinos the more suitable for Jewelry Design, I use different softwares/tools.
 
 Commonly after making the 3D model of my designs, I work on the rendering part (adding materials and light). For this stage, I combine as well as several different software.
 
