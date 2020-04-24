@@ -12,11 +12,11 @@ What if jewelry exists briefly? changing shape, texture, and state, allowing the
 
 ![ephemeral ring](/img/ephemeral-ring/ephemeral-ring-progression.gif)
 
-Imagine we could wear jewelry that during the day will transform the state, bringing visual and sensational experiences to the user. 
+Imagine we could wear jewelry that during the day will transform the state, bringing visual and sensory experiences to the user. 
 
 This is an experimental project where I wanted to use water and play with the idea of altering the shape of the object by a temperature difference.
 
-I placed small rocks inside the mold, they are kept inside the ring and realized when water melts.
+I placed small rocks inside the ring, they are kept inside like something precious and delicate, but they are revealed and exposed when water melts.
 
 ![ephemeral ring](/img/ephemeral-ring/ephemeral_ring_wearing1.jpg)
 
@@ -30,9 +30,11 @@ Sketching the shape of the ring.
 
 ![ephemeral ring](/img/ephemeral-ring/sketches_2.jpg)
 
-Making of the 3D model, first the ring and then the mold.
+Making of the 3D model. I first made the ring and then the mold based on its shape. 
 
 ![ephemeral ring](/img/ephemeral-ring/ephemeral-ring-making.jpg)
+
+![ephemeral ring](/img/ephemeral-ring/ephemeral-ring-making2.jpg)
 
 ![ephemeral ring](/img/ephemeral-ring/mold-technical2.png)
 
