@@ -37,7 +37,7 @@ ___
 
 ## Talks
 
-At XinFab we were constantly looking for people interested in sharing their knowledge, experiences and working related to digital fabrication, design and the makers' movement. Talks meant to inspire and open a panel of discussion with the community.
+At XinFab we were constantly looking for people interested in sharing their knowledge, experiences and work related to digital fabrication, design and the makers' movement. Talks meant to inspire and open a panel of discussion with the community, with the hope of generating a positive impact.
 Here are a couple of talks we organized pairing up with special guests.
 
 #### Pioneers of Open Source Furniture speakers: *Anne Filson and Gary Rohrbacher (AtFAB)*

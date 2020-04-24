@@ -22,7 +22,7 @@ This is the list of materials and softwares I used along the process:
 
 ### Sarduino
 
-During one of my assignments I choose to make an Arduino-compatible board based on an ATMEGA328P microcontroller designed by [Daniele Ingrassia](http://www.fabacademy.org/archives/2015/eu/students/ingrassia.daniele/index.html)
+During one of my assignments I choose to make an Arduino-compatible board based on an ATMEGA328P microcontroller designed by [Daniele Ingrassia](http://www.fabacademy.org/archives/2015/eu/students/ingrassia.daniele/index.html).
 
 One of the reasons why our instructor engouraged us to make our own Arduino compatible board was mainly because we would be using Arduino IDE to program it, and this would make it less difficult when doing the programming and there's lots of documentation about this type of boards. Also, it was a harder challenge and they liked to keep us suffering during the course.
 
