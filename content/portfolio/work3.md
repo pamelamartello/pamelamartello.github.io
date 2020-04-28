@@ -7,7 +7,7 @@ draft = false
 weight = 2
 +++
 
-Special jewelry for Special people
+Custom made jewelry
 <!--more-->
 
 One of the reasons why I love jewelry and making jewelry is that it is personal and it is attached to a story or special moment.

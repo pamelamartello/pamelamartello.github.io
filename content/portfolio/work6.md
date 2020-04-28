@@ -4,7 +4,7 @@ image = "img/good-citizen/the-good-citizen.jpg"
 date = "2016-11-05T19:56:17+05:30"
 title = "The Good Citizen"
 showonlyimage = false
-weight = 10
+weight = 16
 +++
 <!--more-->
 The good citizen jewelry collection is a **_work in progress_**. The idea of this collection started out from a work I designed for **NEXT JENERATION Jewellery Talent Contest 2017**.

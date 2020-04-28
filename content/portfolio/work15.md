@@ -4,7 +4,7 @@ draft = false
 image = "img/ephemeral-ring/ephemeral-ring-progression.gif"
 date = "2016-11-05T19:59:22+05:30"
 title = "Ephemeral ring"
-weight = 16
+weight = 10
 +++
 <!--more-->
 

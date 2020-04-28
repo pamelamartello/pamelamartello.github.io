@@ -4,7 +4,7 @@ draft = false
 image = "img/zstone/round-earrings.jpg"
 date = "2016-11-05T19:59:22+05:30"
 title = "Shanghai Art Deco"
-weight = 8
+weight = 14
 +++
 <!--more-->
 

@@ -4,7 +4,7 @@ draft = false
 image = "img/pcb/pcb.png"
 date = "2016-11-05T19:59:22+05:30"
 title = "PCB Fabrication"
-weight = 14
+weight = 8
 +++
 <!--more-->
 
