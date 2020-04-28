@@ -16,7 +16,7 @@ I am interested in the making process of objects, experimenting new and old tech
 
 * FabAcademy: *Digital Fabrication Course 01/2019 - 06/2019*
 * Fashion Institute of NY: *Rhinoceros III for Jewelry Course 11/2017 - 12/2017*
-* Istituto Europeo di Design: *BA Jewelry Design 9/2008 - 6/2011 (Rome & Milan, Italy)*
+* Istituto Europeo di Design: *Jewelry Design 9/2008 - 6/2011 (Rome & Milan, Italy)*
 * ENAP Escuela Nacional de Artes Plasticas: *Enamel Jewelry Course 8/2009 - 9/2009 (Taxco, Mexico)*
 
 For further information check out my [CV](/img/CV/Pamela_Martello_cv.pdf).
