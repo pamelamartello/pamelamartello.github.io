@@ -37,6 +37,11 @@ Tools and techniques I used to make this project:
 * Embedded programming 
 * Interface and application programming
 
+![poster](/img/mirru_in_out/mirru-components1.jpg)
+![poster](/img/mirru_in_out/mirru-components2.jpg)
+![poster](/img/mirru_in_out/mirru-components3.jpg)
+![poster](/img/mirru_in_out/mirru-components4.jpg)
+
 ![poster](/img/mirru_in_out/poster-mirru.jpg)
 
 ###### **_Click the button below if you can't see the VIDEO on your phone:_**
