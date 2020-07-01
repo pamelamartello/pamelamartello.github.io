@@ -8,7 +8,7 @@ weight = 17
 +++
 <!--more-->
 
-### First of all *thank you for your support!* 
+### First of all, *thank you for your support!* 
 
 ![care instructions](/img/moon_dance_care/care_6.png)
 
@@ -62,7 +62,7 @@ And last but not least, we are here to help or give you tips! If you ever damage
 ![care instructions](/img/moon_dance_care/care_5.png)
 
 ##### *let's stay in touch!*
-**pamelamartelloarana@gmail.com**
+**pamelamartelloarana@gmail.com** //
 wechat id:**pamelamartello**
 
 
