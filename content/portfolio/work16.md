@@ -8,12 +8,22 @@ weight = 17
 +++
 <!--more-->
 
+### First of all *thank you for your support!* 
+
+![care instructions](/img/moon_dance_care/care_6.png)
+
+I really hope you will enjoy these jewelry, that you will feel connected to it and that it will bring a sparkle of joy to you when you wear them. 
+
+I put a lot of love and care to make them, and I would love to show you how you can continue taking care of them now that they are part of you.
+
 ### How to take care of your jewelry?
 
 >*Owning jewelry is not only about wearing it, but also about learning how to care of it and making it last longer...*
 
+![care instructions](/img/moon_dance_care/care_7.png)
+
 #### Advice # 1 
-##### *Know your jewelry, what it is made of?*
+##### *Know your jewelry, what is it made of?*
 
 This collections is made out of silver 25 and brass with 18k yellow gold plating. You need to know that metals react to the environment and can change with the time and care that you put.
 
@@ -51,7 +61,7 @@ And last but not least, we are here to help or give you tips! If you ever damage
 
 ![care instructions](/img/moon_dance_care/care_5.png)
 
-
+##### *let's stay in touch!*
 **pamelamartelloarana@gmail.com**
 wechat id:**pamelamartello**
 
