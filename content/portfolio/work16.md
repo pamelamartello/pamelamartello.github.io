@@ -25,7 +25,7 @@ I put a lot of love and care to make them, and I would love to show you how you 
 #### Advice # 1 
 ##### *Know your jewelry, what is it made of?*
 
-This collections is made out of silver 25 and brass with 18k yellow gold plating. You need to know that metals react to the environment and can change with the time and care that you put.
+This collections is made out of silver 925 and brass with 18k yellow gold plating. You need to know that metals react to the environment and can change with the time and care that you put.
 
 Silver and brass are metals that can get tarnished with the time, it is normal. Gold plating is a "bath" that with the time will run off. So try to avoid using any kind of chemicals to clean your jewelry. All you need to clean them is some soft cloth.
 
