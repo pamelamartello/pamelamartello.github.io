@@ -27,7 +27,8 @@ I put a lot of love and care to make them, and I would love to show you how you 
 
 This collections is made out of silver 925 and brass with 18k yellow gold plating. You need to know that metals react to the environment and can change with the time and care that you put.
 
-Silver and brass are metals that can get tarnished with the time, it is normal. Gold plating is a "bath" that with the time will run off. So try to avoid using any kind of chemicals to clean your jewelry. All you need to clean them is some soft cloth.
+Silver and brass are metals that can get tarnished with the time, it is normal. Gold plated jewellery will wear off over time, however you can make it last longer taking extra care when wearing, storing and cleaning it. 
+Try to avoid using any kind of chemicals to clean your jewelry. All you need to clean them is some soft cloth.
 
 ![care instructions](/img/moon_dance_care/care_1.png)
 
@@ -50,20 +51,38 @@ When it comes to swimming your jewelry will feel safer staying indoors. Try to a
 #### Advice # 4
 ##### *about gold plating*
 
-Some elements of your jewelry have been gold plated. This means they have a thin layer of 18k yellow gold, on top of the brass. Within the years, usage and care, this thin layer might run off, if this ever happens to you, don’t panic the gold plating can be re-done again.
+Some elements of your jewelry have been gold plated. This means they have a thin layer of 18k yellow gold, on top of the brass. Gold plated jewellery will wear off over time, but taking good care of them will slow down the process. And remember gold plating can be re-done again, so you can get back that shine at any time!
 
 ![care instructions](/img/moon_dance_care/care_4.png)
 
 #### Advice # 5
-##### *customer service!*
+##### *cleaning your jewelry*
 
-And last but not least, we are here to help or give you tips! If you ever damage *(we hope you don't)* or need a cleaning service of your jewelry, contact me!
+After each wear, it is recommended to clean your jewelry with a soft cloth to remove any natural skin oils.
+
+When cleaning, very gently wipe your gold plated jewellery with a soft polishing cloth. Do not scrub or rub as this can prematurely wear away the layer of gold.
+
+Silver jewellery can be cleaned in warm soapy water.  Please ensure that it is rinsed thoroughly and dried before storing to avoid it tarnishing. Alternatively you can polish your silver jewellery with a soft polishing cloth.
+
+
+#### Advice # 6
+##### *exchange and Return Policy*
+
+All our pieces are made with lots of care and love and we hope that they brighten up your day and make you feel special when wearing them. 
+However, if your product presents any damage within 7 days of the purchase, we will repair it for free or exchange it for a new one. (you will be responsible for paying for your own shipping costs for returning your item).
+After 7 days of your purchase we can replace or repair it at a cost.
 
 ![care instructions](/img/moon_dance_care/care_5.png)
 
+#### Advice # 5
+##### *customer service!*
+
+And last but not least, we are here to give you any advice you need, just contact us!
+
+
 ##### *let's stay in touch!*
 **pamelamartelloarana@gmail.com** //
-wechat id:**pamelamartello**
+wechat id:**pamartellojewelry**
 
 
 
