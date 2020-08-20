@@ -64,13 +64,16 @@ When cleaning, very gently wipe your gold plated jewellery with a soft polishing
 
 Silver jewellery can be cleaned in warm soapy water.  Please ensure that it is rinsed thoroughly and dried before storing to avoid it tarnishing. Alternatively you can polish your silver jewellery with a soft polishing cloth.
 
+![care instructions](/img/moon_dance_care/care_8.png)
+
+
 
 #### Advice # 6
 ##### *exchange and Return Policy*
 
 All our pieces are made with lots of care and love and we hope that they brighten up your day and make you feel special when wearing them. 
 However, if your product presents any damage within 7 days of the purchase, we will repair it for free or exchange it for a new one. (you will be responsible for paying for your own shipping costs for returning your item).
-After 7 days of your purchase we can replace or repair it at a cost.
+After 7 days of your purchase we can replace or repair it at a cost. We also offer deep cleaning and re-plating service, just contact us.
 
 ![care instructions](/img/moon_dance_care/care_5.png)
 
@@ -79,10 +82,13 @@ After 7 days of your purchase we can replace or repair it at a cost.
 
 And last but not least, we are here to give you any advice you need, just contact us!
 
+![care instructions](/img/moon_dance_care/logo-pmartello.png)
 
-##### *let's stay in touch!*
+##### *let's stay connected!*
 **pamelamartelloarana@gmail.com** //
-wechat id:**pamartellojewelry**
+wechat id:**pmartellojewelry** // instagram: **pamelamartello.jewelry**
+
+![care instructions](/img/moon_dance_care/qr-code.png)
 
 
 
