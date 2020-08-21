@@ -22,7 +22,7 @@ I put a lot of love and care to make them, and I would love to show you how you 
 
 ![care instructions](/img/moon_dance_care/care_7.png)
 
-#### Advice # 1 
+#### Advice n.1 
 ##### *Know your jewelry, what is it made of?*
 
 This collections is made out of silver 925 and brass with 18k yellow gold plating. You need to know that metals react to the environment and can change with the time and care that you put.
@@ -32,7 +32,7 @@ Try to avoid using any kind of chemicals to clean your jewelry. All you need to 
 
 ![care instructions](/img/moon_dance_care/care_1.png)
 
-#### Advice # 2
+#### Advice n.2
 ##### *no matter what sports you practice better take them off!*
 
 Your jewelry will prefer if you avoid doing muay thai/yoga/cycling/ballet, etc, with them, they are not keen of our sweat. Especially during shower time, don’t take them with you. And if you wear perfume remember to put them on after your beauty ritual. 
@@ -41,21 +41,21 @@ So, remember to take them off before!
 
 ![care instructions](/img/moon_dance_care/care_2.png)
 
-#### Advice # 3
+#### Advice n.3
 ##### *swimming is lovely but your jewelry will prefer not to!*
 
 When it comes to swimming your jewelry will feel safer staying indoors. Try to avoid swimming with them.
 
 ![care instructions](/img/moon_dance_care/care_3.png)
 
-#### Advice # 4
+#### Advice n.4
 ##### *about gold plating*
 
 Some elements of your jewelry have been gold plated. This means they have a thin layer of 18k yellow gold, on top of the brass. Gold plated jewellery will wear off over time, but taking good care of them will slow down the process. And remember gold plating can be re-done again, so you can get back that shine at any time!
 
 ![care instructions](/img/moon_dance_care/care_4.png)
 
-#### Advice # 5
+#### Advice n.5
 ##### *cleaning your jewelry*
 
 After each wear, it is recommended to clean your jewelry with a soft cloth to remove any natural skin oils.
@@ -68,7 +68,7 @@ Silver jewellery can be cleaned in warm soapy water.  Please ensure that it is r
 
 
 
-#### Advice # 6
+#### Advice n.6
 ##### *exchange and Return Policy*
 
 All our pieces are made with lots of care and love and we hope that they brighten up your day and make you feel special when wearing them. 
@@ -77,7 +77,7 @@ After 7 days of your purchase we can replace or repair it at a cost. We also off
 
 ![care instructions](/img/moon_dance_care/care_5.png)
 
-#### Advice # 5
+#### Advice n.7
 ##### *customer service!*
 
 And last but not least, we are here to give you any advice you need, just contact us!
