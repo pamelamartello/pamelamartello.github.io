@@ -41,7 +41,7 @@ Making every pair unrepeatable & uncommon.
 ![the mian](/img/the_mian/mian5.jpg)
 
 #### Watch the animation!
-Test
+Test changes 
 Click on the image below and watch the animation I did in collboration with Filmmaker [**Jose Salto**](https://vimeo.com/josesalto).
 
 [![](/img/the_mian/video-link2.jpg)](https://www.vimeo.com/675370573)
