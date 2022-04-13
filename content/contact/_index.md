@@ -9,3 +9,9 @@ For further information you can contact me through [pamelamartelloarana@gmail.co
 
 ![3d Modelling gif](/img/contact/2020-CONTACT-v2.gif)
 
+#### Wechat official account
+Discover more about my brand and journey of creation by scanning the qr code below.
+
+![wechat code](/img/contact/wechat_qrcode.png)
+
+
