@@ -46,17 +46,22 @@ Every one of them is made with lots of care and love. Check below which style re
 
 #### 2. the aalto
 
-![the mian](/img/bent/the_knot.svg)
+![the mian](/img/bent/the_aalto.svg)
 ![the mian](/img/bent/aalto.jpg)
-![the mian](/img/bent//aalto2.jpg)
+![the mian](/img/bent/aalto2.jpg)
 
+#### 3. the fold
 
-#### Watch the animation!
+![the mian](/img/bent/the_fold.svg)
+![the mian](/img/bent/the_fold2.jpg)
+![the mian](/img/bent/the_fold3.jpg)
+![the mian](/img/bent/the_fold.jpg)
 
-![the mian](/img/bent/bent-gif.gif)
+#### Watch the video!
 
-Click on the image below and watch the animation I did in collboration with Filmmaker [**Jose Salto**](https://vimeo.com/josesalto).
+Click on the image below and watch the promotional video made by Filmmaker [**Jose Salto**](https://vimeo.com/josesalto).
 
-[![](/img/the_mian/video-link2.jpg)](https://www.vimeo.com/675370573)
+[![](/img/bent/round_bent_small.gif)](https://www.vimeo.com/675367532)
 
-##### **no noodle was harmed in the making of this video*
+![the mian](/img/bent/bent-gif-small.gif)
+
