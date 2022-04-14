@@ -4,7 +4,7 @@ draft = false
 image = "img/3d-modelling/3d-modelling-render.gif"
 date = "2016-11-05T18:25:22+05:30"
 title = "3D modelling"
-weight = 5
+weight = 7
 +++
 <!--more-->
 

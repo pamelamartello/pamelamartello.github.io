@@ -4,7 +4,7 @@ image = "img/fablabo/SIGN-FABO4.png"
 showonlyimage = true
 date = "2016-11-05T19:50:47+05:30"
 title = "FabLab O Shanghai"
-weight = 12
+weight = 13
 +++
 
 

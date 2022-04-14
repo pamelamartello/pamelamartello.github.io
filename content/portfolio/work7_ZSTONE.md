@@ -4,7 +4,7 @@ showonlyimage = false
 date = "2016-11-05T19:57:40+05:30"
 title = "ZSTONE"
 draft = false
-weight = 8
+weight = 9
 +++
 
 Xinjiang Jade Jewelry collections

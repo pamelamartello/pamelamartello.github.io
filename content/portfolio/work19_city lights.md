@@ -1,10 +1,10 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/the_mian/mian_cover2.jpg"
+image = "img/city_lights/cover_cl.jpg"
 date = "2016-11-05T19:59:22+05:30"
-title = "The Mian earrings"
-weight = 1
+title = "city lights"
+weight = 4
 +++
 <!--more-->
 

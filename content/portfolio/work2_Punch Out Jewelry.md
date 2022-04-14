@@ -4,7 +4,7 @@ title = "PUNCH OUT JEWELRY KIT"
 draft = false
 image = "img/punch-out-jewelry/poster-1.png"
 showonlyimage = false
-weight = 2
+weight = 5
 +++
 <!--more-->
 > #### can the user be part of the making process?

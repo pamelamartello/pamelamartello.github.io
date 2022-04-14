@@ -4,7 +4,7 @@ draft = false
 image = "img/xinfab/xinfab-loading.gif"
 date = "2016-11-05T19:59:22+05:30"
 title = "FabLab manager"
-weight = 13
+weight = 14
 +++
 <!--more-->
 
