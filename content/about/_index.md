@@ -25,6 +25,6 @@ I am interested in the making process of objects, experimenting new and old tech
 * Istituto Europeo di Design: *Jewelry Design 9/2008 - 6/2011 (Rome & Milan, Italy)*
 * ENAP Escuela Nacional de Artes Plasticas: *Enamel Jewelry Course 8/2009 - 9/2009 (Taxco, Mexico)*
 
-For further information download my [CV](/img/CV/2022_PMARTELLO_CV).
+For further information download my [CV](/img/CV/2022_PMARTELLO_CV.pdf).
 
 [1]: /img/aboutv3.gif
