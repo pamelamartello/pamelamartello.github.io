@@ -8,7 +8,7 @@ weight = 4
 +++
 <!--more-->
 
-![the mian](/img/the_mian/title_cover.jpg)
+![the mian](/img/city_lights/poster.jpg)
 
 >*The collection noodle “面”, is a series of unique acrylic hand-bent sculptural earrings.* 
 
