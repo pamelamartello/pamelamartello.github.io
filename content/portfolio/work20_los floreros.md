@@ -37,14 +37,9 @@ A unique decorative item for your home, or working space, that I hope will brigh
 Making every pair unrepeatable & uncommon.
 
 ![los floreros](/img/los_floreros/flowervases_poster.svg)
+![los floreros](/img/los_floreros/floreros_long.jpg)
+![los floreros](/img/los_floreros/floreros_long2.jpg)
+
+
 
 ![los floreros](/img/los_floreros/floreros2.gif)
-
-
-#### Watch the animation!
-
-Click on the image below and watch the animation I did in collboration with Filmmaker [**Jose Salto**](https://vimeo.com/josesalto).
-
-[![](/img/the_mian/video-link2.jpg)](https://www.vimeo.com/675370573)
-
-##### **no noodle was harmed in the making of this video*
