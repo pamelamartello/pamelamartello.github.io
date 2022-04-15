@@ -37,9 +37,30 @@ A unique decorative item for your home, or working space, that I hope will brigh
 Making every pair unrepeatable & uncommon.
 
 ![los floreros](/img/los_floreros/flowervases_poster.svg)
+&nbsp;
+
+![los floreros](/img/los_floreros/otto3.svg)
+
 ![los floreros](/img/los_floreros/floreros_long.jpg)
+
+![los floreros](/img/los_floreros/the_spiral2.svg)
 ![los floreros](/img/los_floreros/floreros_long2.jpg)
+&nbsp;
 
+#### How to use
 
+You can add some water inside the tubes and place your small flowers in both or only one of the two holes.
 
+Or if you like desiccated flowers you can place them inside without the water.
+
+![los floreros](/img/los_floreros/how_to.svg)
+
+#### Size & color
+
+Every vase is handmade, therefore the sizes may vary slightly every time I make a new one, but the average size of each vase is closer to the proportions shown above.
+
+As for the colors, the gradients may be slightly lighter or darker as I do the dying by hand.
+![los floreros](/img/los_floreros/floreros_size.jpg)
+![los floreros](/img/los_floreros/floreros_size2.jpg)
 ![los floreros](/img/los_floreros/floreros2.gif)
+![los floreros](/img/los_floreros/los_floreros_end.svg)
