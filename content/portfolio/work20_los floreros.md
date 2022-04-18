@@ -57,7 +57,7 @@ Or if you like desiccated flowers you can place them inside without the water.
 
 #### Size & color
 
-Every vase is handmade, therefore the sizes may vary slightly every time I make a new one, but the average size of each vase is closer to the proportions shown above. test
+Every vase is handmade, therefore the sizes may vary slightly every time I make a new one, but the average size of each vase is closer to the proportions shown above. 
 
 As for the colors, the gradients may be slightly lighter or darker as I do the dying by hand.
 ![los floreros](/img/los_floreros/floreros_size.jpg)
