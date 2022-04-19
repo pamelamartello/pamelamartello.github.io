@@ -4,7 +4,7 @@ image = "img/digitally-fab-jewelry/digitally-fab-jewelry.gif"
 showonlyimage = true
 date = "2016-11-05T20:22:08+05:30"
 title = "Digital Farication Workshops"
-weight = 10
+weight = 9
 +++
 
 From a 3D model to a prototype. Making digitally fabricated objects.
