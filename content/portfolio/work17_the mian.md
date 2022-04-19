@@ -4,7 +4,7 @@ draft = false
 image = "img/the_mian/mian_cover2.jpg"
 date = "2016-11-05T19:59:22+05:30"
 title = "The Mian earrings"
-weight = 1
+weight = 2
 +++
 <!--more-->
 
@@ -33,9 +33,9 @@ The central piece, the noodle, is hand bent and hand-dyed.
 Each of them made one by one.
 Making every pair unrepeatable & uncommon.
 
-![the mian](/img/the_mian/mian2.jpg)
 ![the mian](/img/the_mian/mian3.jpg)
 ![the mian](/img/the_mian/mian6.jpg)
+![the mian](/img/the_mian/mian2.jpg)
 ![the mian](/img/the_mian/mian4.jpg)
 ![the mian](/img/the_mian/mian5.jpg)
 

@@ -36,7 +36,7 @@ These are a series of acrylic handmade vases designed and crafted from my studio
 A unique decorative item for your home, or working space, that I hope will brighten up your day together with your favorite flowers.
 Making every pair unrepeatable & uncommon.
 
-![los floreros](/img/los_floreros/flowervases_poster.svg)
+![los floreros](/img/los_floreros/flowervases_familyv2.svg)
 &nbsp;
 
 ![los floreros](/img/los_floreros/otto3.svg)

@@ -25,7 +25,7 @@ The collection BENT was born from this experimentation of reshaping materials, u
 Each of the rings is made in acrylic and shaped by hand. Making them slightly different to each other and unique, just like you ;)
 
 
-![bent](/img/bent/bent-icons.svg)
+![bent](/img/bent/bent_modelsv2.svg)
 
 ##### *The models*
 

@@ -21,7 +21,7 @@ P.C.*
 
 Luckily we can reimagine how to see the lights again...
 
-![city lights](/img/city_lights/city_lights_poster.svg)
+![city lights](/img/city_lights/workshop_posterv2.svg)
 
 #### City lights
 ##### *Workshop about the interaction between shape & lights*  
