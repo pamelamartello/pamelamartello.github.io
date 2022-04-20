@@ -35,7 +35,10 @@ Hoping that it will keep you company and will bring you good luck throughout thi
 >#### About the masks process & materials  
 &nbsp;  
 
-![tecuanes](/img/tecuanes/tecuanes_banner2.png)
+![tecuanes](/img/tecuanes/tecuanes_banner2.png)  
+&nbsp;  
+![tecuanes](/img/tecuanes/tecuan.jpg)
+![tecuanes](/img/tecuanes/tecuan2.jpg)
 
 
 
