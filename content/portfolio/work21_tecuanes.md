@@ -32,7 +32,7 @@ Hoping that it will keep you company and will bring you good luck throughout thi
 ![tecuanes](/img/tecuanes/tecuanes_banner1.png)  
 &nbsp;  
 
->#### About the masks making process & materials  
+>#### About the masks making process & materials used   
 &nbsp;  
 
 ![tecuanes](/img/tecuanes/tecuanes_banner2.png)  
