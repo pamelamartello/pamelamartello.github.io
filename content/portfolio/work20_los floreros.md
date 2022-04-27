@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/los_floreros/cover_floreros.jpg"
+image = "img/los_floreros/cover_florero2.png"
 date = "2016-11-05T19:59:22+05:30"
 title = "los floreros"
 weight = 3
@@ -23,7 +23,7 @@ Wondering what I could use, I jumped into my studio and I started experimenting 
 
 And this is how this series started...
 
-[![](/img/los_floreros/florero_video.jpg)](https://www.vimeo.com/698493564)
+[![](/img/los_floreros/video_cover_florero.png)](https://www.vimeo.com/698493564)
 
 
 #### About
