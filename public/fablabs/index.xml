@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fablabs on PAMELA MARTELLO</title>
+    <link>https://pamelamartello.github.io/fablabs/</link>
+    <description>Recent content in Fablabs on PAMELA MARTELLO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2016 20:22:08 +0530</lastBuildDate>
+    
+	<atom:link href="https://pamelamartello.github.io/fablabs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mirru in-out</title>
+      <link>https://pamelamartello.github.io/fablabs/work1_mirru-project/</link>
+      <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
+      
+      <guid>https://pamelamartello.github.io/fablabs/work1_mirru-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FabLab manager</title>
+      <link>https://pamelamartello.github.io/fablabs/work2_fablab-manager/</link>
+      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
+      
+      <guid>https://pamelamartello.github.io/fablabs/work2_fablab-manager/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital Farication Workshops</title>
+      <link>https://pamelamartello.github.io/fablabs/work3_digfab-workshops/</link>
+      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
+      
+      <guid>https://pamelamartello.github.io/fablabs/work3_digfab-workshops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PCB Fabrication</title>
+      <link>https://pamelamartello.github.io/fablabs/work4_pcb-fabrication/</link>
+      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
+      
+      <guid>https://pamelamartello.github.io/fablabs/work4_pcb-fabrication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FabLab O Shanghai</title>
+      <link>https://pamelamartello.github.io/fablabs/work5_fablabo/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      
+      <guid>https://pamelamartello.github.io/fablabs/work5_fablabo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jewelry workshops</title>
+      <link>https://pamelamartello.github.io/fablabs/work6_aiva/</link>
+      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
+      
+      <guid>https://pamelamartello.github.io/fablabs/work6_aiva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>how i built this site</title>
+      <link>https://pamelamartello.github.io/fablabs/work7_how-i-built-this-site/</link>
+      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
+      
+      <guid>https://pamelamartello.github.io/fablabs/work7_how-i-built-this-site/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

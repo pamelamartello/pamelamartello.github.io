@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Decors on PAMELA MARTELLO</title>
+    <link>https://pamelamartello.github.io/decor/</link>
+    <description>Recent content in Decors on PAMELA MARTELLO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2016 19:59:22 +0530</lastBuildDate>
+    
+	<atom:link href="https://pamelamartello.github.io/decor/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>just for fun</title>
+      <link>https://pamelamartello.github.io/decor/work4_just-for-fun/</link>
+      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
+      
+      <guid>https://pamelamartello.github.io/decor/work4_just-for-fun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>La Espiral</title>
+      <link>https://pamelamartello.github.io/decor/work1_los-floreros-la-espiral/</link>
+      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
+      
+      <guid>https://pamelamartello.github.io/decor/work1_los-floreros-la-espiral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>the flower vases</title>
+      <link>https://pamelamartello.github.io/decor/work5_los-floreros/</link>
+      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
+      
+      <guid>https://pamelamartello.github.io/decor/work5_los-floreros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Otto</title>
+      <link>https://pamelamartello.github.io/decor/work1_los-floreros-otto/</link>
+      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
+      
+      <guid>https://pamelamartello.github.io/decor/work1_los-floreros-otto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>los tecuanes</title>
+      <link>https://pamelamartello.github.io/decor/work3_tecuanes/</link>
+      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
+      
+      <guid>https://pamelamartello.github.io/decor/work3_tecuanes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

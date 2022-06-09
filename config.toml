@@ -29,8 +29,18 @@ googleAnalytics = ""
 
   # Nav links in the side bar
   [[params.navlinks]]
-  name = "works"
+  name = "jewelry"
   url = "portfolio/"
+  home = true
+
+  [[params.navlinks]]
+  name = "decor"
+  url = "decor/"
+  home = true
+
+[[params.navlinks]]
+  name = "fablabs"
+  url = "fablabs/"
   home = true
 
   [[params.navlinks]]
