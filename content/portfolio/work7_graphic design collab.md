@@ -7,45 +7,25 @@ title = "Graphic Design Collab"
 weight = 7
 +++
 
-A token of friendship and protection to guide you whenever the skies turn grey. 
+Together with [**Jiro Hsu**](https://www.instagram.com/asjirogoes/) we designed the packaging of my jewwelry line.  
+I wrote down an article where we talk about the inspiration, the process and also about Jiro's cosmos of creation.  
+Read more about it!
 
 <!--more-->
 
-Inspired by a dear childhood friend who has always been fascinated about how birds were depicted throughout history I decided to make a series of **_pajaritos_** (little birds) inspired in my hometown Mexico.
+>*an artwork inspired by the stories, rituals and crafts from my dear Mexico*  
 
-![pajaritos moodboard](/img/pajaritos/moodboard-pajaritos.jpg)
+&nbsp;  
+
+#### Rooted in Mexican Folk Art
+&nbsp;  
+A special packaging, meant not only for carrying and storing your jewels, but we hope they can become another decor item in your room.
+Bringing you a little spark of color.  
 
 
-#### Shape study
+![collab jiro](/img/collab_jiro/jiro_cover.gif)
+![collab jiro](/img/collab_jiro/collab_intro.jpg)
+[![](/img/collab_jiro/collab_2-video.jpg)](https://www.saltojose.com/portfolio/pamela-martello's-brand-content?pgid=l103uc2d-9c7fa1_54b85923d5aa4081a54b87b8dcaf6e63)
 
-Sketches of my own interpretation of birds.
-
-![pajaritos sketches](/img/pajaritos/pajaritos-sketch.jpg)
-
-#### Rendering & making process
-
-The earrings were designed in 3D software Rhinoceros, after that, I printed the models in castable wax and proceed to cast them in silver 925.
-Following up by the cleaning process of filing, welding, and polishing, entirely made by hand.
-
-![renders pajaritos](/img/pajaritos/pajaritos-long1.jpg)
-
-![renders pajaritos](/img/pajaritos/pajaritos-long2.jpg)
-
-![renders pajaritos](/img/pajaritos/pajaritos-media-luna1.jpg)
-
-![renders pajaritos](/img/pajaritos/pajaritos.jpg)
-
-![renders pajaritos](/img/pajaritos/pajaritos4.jpg)
-
-![pajaritos](/img/pajaritos/pajaritos-making.jpg)
-
-![pajaritos](/img/pajaritos/pajaritos-making2.jpg)
-
-![pajaritos](/img/pajaritos/pajaritos-making3.jpg)
-
-![pajaritos](/img/pajaritos/pajaritos-making4.jpg)
-
-![pajaritos](/img/pajaritos/pajaritos-making5.jpg)
-
-![pajaritos](/img/pajaritos/pajaritos-making6.jpg)
+&nbsp;  
 

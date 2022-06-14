@@ -39,7 +39,7 @@ The family has three styles:
 ***Otto***   
 ***La Ola***
 
-You can explore each of the vases inside the section [decor](https://www.pamelamartello.github.io/portfolio/) of my portfolio.
+You can explore each of the vases inside the section [decor](https://pamelamartello.github.io/decor/) of my portfolio.
 
 ![los floreros](/img/los_floreros/flowervases_familyv2.svg)
 &nbsp;
