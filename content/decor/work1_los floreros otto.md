@@ -85,8 +85,7 @@ As for the colors, the gradients may be slightly lighter or darker as I do the d
 
 ***Entre la luz y la flor...***  
 
-Enjoy watching our video made in collaboration with Filmmaker [**Jose Salto**](https://vimeo.com/josesalto).
+Enjoy watching our *Floreros* video made in collaboration with Filmmaker [**Jose Salto**](https://vimeo.com/josesalto).
 
 [![](/img/los_floreros/video_cover_florero.png)](https://www.vimeo.com/698493564)
 ![los floreros](/img/otto/title_otto.png)
-![los floreros](/img/los_floreros/los_floreros_end.svg)
